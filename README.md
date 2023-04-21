@@ -3,6 +3,7 @@
 - 📍 I'm based in South Wales, UK.
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning Swift + consolidating the knowledge I gained at Makers Academy.
+- 🤩 Project I'm most proud of so far: [Tenant Talk](https://github.com/iamdobbs/tenant-talk)
 - 👯 I’m looking to collaborate on anything and everything. I love to contribute and work with others!
 - 💬 Ask me about bootcamps, small business and the best place for jazz in New York.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hayleydobbs)
