@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on anything and everything. I love to contribute and work with others!
 - 💬 Ask me about bootcamps, small business and the best place for jazz in New York.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hayleydobbs)
-- 😄 Pronouns: she/her
 - ⚡ Fun facts: 
   - 🏈 I used to play American Football for Wales' only women's team.
   - 📷 I love photography and have had my work used by Dazed + Confused.
