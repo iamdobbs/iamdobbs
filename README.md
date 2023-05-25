@@ -1,8 +1,8 @@
 ### Hey, I'm Hayley 👋
 
 - 📍 I'm based in South Wales, UK.
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning Swift + consolidating the knowledge I gained at Makers Academy.
+- 🔭 I’m currently building my personal website.
+- 🌱 I’m also consolidating the knowledge I gained at Makers Academy.
 - 🤩 Project I'm most proud of so far: [Tenant Talk](https://github.com/iamdobbs/tenant-talk)
 - 👯 I’m looking to collaborate on anything and everything. I love to contribute and work with others!
 - 💬 Ask me about bootcamps, small business and the best place for jazz in New York.
